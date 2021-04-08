@@ -1,0 +1,25 @@
+10, Pozzo di Borgo
+10, t:Painted tree-rat i:Myocastorini
+5, b:1898 c:Leicester City Football League
+10, t:Combat i:konami
+20, Catcher in the Rye
+20, b:William Owen c:English songwriters
+10, i:school t:shahid
+20, Mahendra Singh Dhoni
+10, t:Virgin Islands c:islands
+10, b:radio program i:Mike Adams c:American sports radio programs
+5, t:NFL quarterbacks b:passer rating
+20, t:Wroclaw Uniwersity i:Konigliche
+10, united nations security
+20, t:Fuaamotu i:Nukualofa
+10, Vrapci
+5, b:Vendetta c:Films about fascism
+10, t:john i:canada b:morrison
+10, b:Mask of light i:2003
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik
