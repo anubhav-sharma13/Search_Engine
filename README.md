@@ -11,3 +11,6 @@ Implementation of an optimised search Engine in python language .
     python3 search.py <index_location> 
 ```
 ## Format of Query 
+### Field Query 
+<p> 3, t:World Cup i:2019 c:Cricket <br>
+2, t:the two towers i:1954 </p>
