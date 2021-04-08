@@ -16,3 +16,5 @@ Implementation of an optimised search Engine in python language .
 2, t:the two towers i:1954 </p>
 
 Each line is of the format  K, QS where K is the number of results to return and QS is the query string. 1<=K<=100
+
+#### For More Information refer to Questions.pdf
